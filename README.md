@@ -22,7 +22,7 @@ Check out our solution in action: [click here](https://drive.google.com/file/d/1
 
 ## Get the Data 📊
 
-Access the results in a CSV file here: 
+Access the results in a CSV file here:  [click here](https://github.com/Brindha-Saravanan/Ball-pitch-detection/blob/main/ball_bounce_output.csv)
 
 
 ## Connect With Us 🌐
