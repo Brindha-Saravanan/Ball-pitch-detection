@@ -27,6 +27,6 @@ Access the results in a CSV file here:  [click here](https://github.com/Brindha-
 
 ## Connect With Us 🌐
 
-Stay updated with our latest projects and connect with us on  [click here](https://www.linkedin.com/in/brindha-sara-525536224)
+Stay updated with our latest projects and connect with us on  [click here](https://www.linkedin.com/in/brindha-saravanan/)
 
 Enjoy Pitch Detection! 📹📈🔍
